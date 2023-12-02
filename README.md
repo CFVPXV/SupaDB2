@@ -1,1 +1,2 @@
-# DB2ProjectMaterial
+# SupaDB2
+A Supabase Security Demo for DB2
